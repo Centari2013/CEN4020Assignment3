@@ -1,3 +1,6 @@
 pom.xml
 CMakeLists.txt
 cmake-build-debug/
+.vscode/c_cpp_properties.json
+.gitignore
+.vscode/tasks.json
